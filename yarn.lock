@@ -3678,7 +3678,7 @@ process-nextick-args@~2.0.0:
 
 prodigio-components@oneberto/testwebcomponentlib:
   version "0.0.1"
-  resolved "https://codeload.github.com/oneberto/testwebcomponentlib/tar.gz/0c29fbe68d1509c72950f319939a7f9ec507a881"
+  resolved "https://codeload.github.com/oneberto/testwebcomponentlib/tar.gz/a839cd1a7a8c887a84ba1407bdc47a1035bc84ad"
   dependencies:
     "@stencil/core" "^2.0.1"
     "@stencil/sass" "^1.4.1"
